@@ -47,5 +47,9 @@ Only **High Priority** employees are processed for onboarding.
 
 ---
 
-## 📂 Repository Structure
+▶️ How to Run Locally
+```bash
+npm install
+node index.js
+node index.js
 
