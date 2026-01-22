@@ -1,0 +1,6 @@
+{
+  "Name": "High_Priority_Hires",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

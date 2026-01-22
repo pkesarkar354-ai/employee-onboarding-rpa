@@ -1,0 +1,9 @@
+.local/
+.settings/
+.logs/
+.screenshots/
+.storage/
+.templates/
+*.xlsx
+*.zip
+~*.xaml
